@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar 'hello world' sample project for  Alexa Skills Kit (Python) test
+Welcome to the AWS CodeStar 'hello world' sample project for  Alexa Skills Kit (Python)
 =======================================================================================
 
 This project helps first-time Alexa Skills Kit developers get started by providing them with a working 'hello world' skill. This project provisions a sample Alexa skill that uses the custom interaction model, an AWS Lambda function, and an AWS CodePipeline continuous integration/continuous delivery (CI/CD) pipeline.
